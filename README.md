@@ -16,8 +16,8 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 
 ## Program:
 ```
-NAME    : BEJIN B
-REG NO  : 212222230021
+Name    :Easwar J
+Reg No : 212221230024
 ```
 ```
 #include <stdio.h>
@@ -135,12 +135,12 @@ void outputImage(const std::string& output_file, unsigned char* grey_image, int 
 ## OUTPUT:
 
 ### Input Image
-![image](https://github.com/user-attachments/assets/d04670eb-3e86-4798-9c81-3fb7187d6576)
+![horizontal-landscape](https://github.com/JeyaKrishnaSJ/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/118707091/8be70deb-458d-4ac2-bfa6-2891212999c1)
 
 
 
 ### Grayscale Image
-![image](https://github.com/user-attachments/assets/15dff1d7-af5a-47b4-837b-80ebc3d54179)
+![image16994326690](https://github.com/JeyaKrishnaSJ/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/118707091/df4c49df-7746-478a-b219-c33ce938ab13)
 
 
 
